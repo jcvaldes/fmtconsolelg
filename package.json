@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jcvaldes/consolelog-fmt.git"
+    "url": "git+https://github.com/jcvaldes/fmtconsolelg.git"
   },
   "keywords": [
     "console",
@@ -18,9 +18,9 @@
   "author": "Juan Carlos Valdes <idevkingos@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jcvaldes/consolelog-fmt/issues"
+    "url": "https://github.com/jcvaldes/fmtconsolelg/issues"
   },
-  "homepage": "https://github.com/jcvaldes/consolelog-fmt#readme",
+  "homepage": "https://github.com/jcvaldes/fmtconsolelg#readme",
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^8.2.1",

@@ -16,7 +16,7 @@ Para usar el módulo tenemos que importarlo.
 var m = require('fmtconsolelg');
 ```
 
-### Mensaje de confirmación "ok"
+### Mensaje de confirmación "success"
 
 ```
 m.success('Los datos se han enviado correctamente');
