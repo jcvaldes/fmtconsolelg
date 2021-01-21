@@ -1,6 +1,6 @@
 {
   "name": "fmtconsolelg",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Log para consola personalizada",
   "main": "index.js",
   "scripts": {
