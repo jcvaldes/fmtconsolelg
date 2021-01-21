@@ -5,7 +5,7 @@ Librería que muestra diferentes mensajes en colores personalizados para hacer r
 ### Instalación
 
 ```
-npm i custom-console-log
+npm i fmtconsolelg
 ```
 
 ### Uso
@@ -13,7 +13,7 @@ npm i custom-console-log
 Para usar el módulo tenemos que importarlo.
 
 ```
-var m = require('custom-console-log');
+var m = require('fmtconsolelg');
 ```
 
 ### Mensaje de confirmación "ok"
