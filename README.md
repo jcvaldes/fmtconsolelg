@@ -31,7 +31,7 @@ m.info('Los datos se han enviado correctamente');
 ### Mensaje de advertencia "aviso"
 
 ```
-m.warm('Los datos se han enviado correctamente aunque no muy rápido');
+m.warn('Los datos se han enviado correctamente aunque no muy rápido');
 ```
 
 ### Mensaje de fallo "error"
