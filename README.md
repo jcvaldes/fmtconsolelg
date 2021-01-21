@@ -19,7 +19,7 @@ var m = require('fmtconsolelg');
 ### Mensaje de confirmación "ok"
 
 ```
-m.ok('Los datos se han enviado correctamente');
+m.success('Los datos se han enviado correctamente');
 ```
 
 ### Mensaje de información "info"
@@ -31,7 +31,7 @@ m.info('Los datos se han enviado correctamente');
 ### Mensaje de advertencia "aviso"
 
 ```
-m.aviso('Los datos se han enviado correctamente aunque no muy rápido');
+m.warm('Los datos se han enviado correctamente aunque no muy rápido');
 ```
 
 ### Mensaje de fallo "error"
